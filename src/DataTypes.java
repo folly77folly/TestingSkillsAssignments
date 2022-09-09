@@ -8,7 +8,6 @@ public class DataTypes {
         boolean isActive = true;
         double length = 3.2;
         char alpha = 'c';
-
         System.out.println("this is a string " + address);
         System.out.println("this is a float " + size);
         System.out.println("this is a integer " + speed);
